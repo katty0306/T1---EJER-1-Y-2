@@ -1,6 +1,7 @@
 ﻿int verde = 0, azul = 0, rojo = 0;
 
 Console.WriteLine("Ingrese el ultimo digito de la placa del carro: ");
+//body
 while (true)
 {
     string input = Console.ReadLine();
