@@ -7,16 +7,16 @@ while (true)
     if (input.ToUpper() == "F")
         break;
 
-    int digit = int.Parse(input);
+    int dgto = int.Parse(input);
 
-    if (digit >= 0 && digit <= 3)
+    if (dgto >= 0 && dgto <= 3)
         verde++;
-    else if (digit >= 4 && digit <= 6)
+    else if (dgto >= 4 && dgto <= 6)
         azul++;
-    else if (digit >= 7 && digit <= 9)
+    else if (dgto >= 7 && dgto <= 9)
         rojo++;
     else
-        Console.WriteLine("Digito no valido !!! Intentelo nuevamente");
+        Console.WriteLine("Digito no valido !!!");
 }
 
 Console.WriteLine("Resultados: ");
