@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UPN\\Downloads\\KATTY L MUESTRA\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6.csproj",
+      "projectUniqueName": "C:\\Users\\UPN\\Documents\\T1---EJER-1-Y-2C\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6.csproj",
       "projectName": "MUESTRA 1 - SEMANA 6",
-      "projectPath": "C:\\Users\\UPN\\Downloads\\KATTY L MUESTRA\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6.csproj",
+      "projectPath": "C:\\Users\\UPN\\Documents\\T1---EJER-1-Y-2C\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6.csproj",
       "packagesPath": "C:\\Users\\UPN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UPN\\Downloads\\KATTY L MUESTRA\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6\\obj\\",
+      "outputPath": "C:\\Users\\UPN\\Documents\\T1---EJER-1-Y-2C\\MUESTRA 1 - SEMANA 6\\MUESTRA 1 - SEMANA 6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
